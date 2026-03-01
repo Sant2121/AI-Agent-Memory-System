@@ -1,3 +1,5 @@
+# AI Agent Memory System - Simple Overview
+
 ## Why This Matters
 
 ### The Problem
@@ -53,6 +55,18 @@ Memory: Stores "Employee asked about vacation"
 Employee (next week): "Can I carry over unused days?"
 Memory: "Oh, you asked about vacation before!"
 HR Bot: "Since you asked about vacation, yes you can carry over 5 days"
+
+## Live Demo Screenshots
+
+### Screenshot 1: First Message (No Memory Yet)
+![First Message](Screenshot%20Interface.png)
+*User asks about parental leave policy. System responds with general information.*
+
+### Screenshot 2: Second Message (Memory Retrieved)
+![Second Message with Memory](Screenshot_Chat2%20with%20memory.jpeg)
+*User asks follow-up question. System retrieves previous memory and provides contextual answer.*
+
+---
 
 ## How This Compares to Enterprise Solutions
  
